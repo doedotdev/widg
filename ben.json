@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "ben/extension": true
+  }
+}
